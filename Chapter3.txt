@@ -1,0 +1,2 @@
+All three files have being changed.It's better to know what
+git is doing under the hood.
